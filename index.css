@@ -1,0 +1,16 @@
+body {
+  background-color: white;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 25rem;
+}
+
+.left {
+  background-color: hsl(241, 81%, 54%);
+  border-radius: 20px;
+  flex: 1;
+}
